@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qt3fis"
+version = "1.0.0"
+description = "Quantum Type-3 Fuzzy Inference System public code release"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+  {name = "Rouzbeh Doroudi"},
+  {name = "Siyamak Doroudi"}
+]
+dependencies = [
+  "numpy>=1.23",
+  "scipy>=1.10",
+  "matplotlib>=3.7",
+  "pandas>=1.5",
+  "qiskit>=1.0",
+  "qiskit-aer>=0.13"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "QT3-FIS: Quantum Type-3 Fuzzy Inference System"
+message: "If you use this software, please cite the associated Applied Soft Computing article."
+authors:
+  - family-names: Doroudi
+    given-names: Rouzbeh
+  - family-names: Doroudi
+    given-names: Siyamak
+year: 2026
+doi: 10.1016/j.asoc.2026.115406
+repository-code: "https://github.com/roozbehdoroudi/QT3-FIS-Quantum-Only"
+license: MIT

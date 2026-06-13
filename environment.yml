@@ -1,0 +1,13 @@
+name: qt3fis-quantum-only
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - pip
+  - pip:
+      - qiskit>=1.0
+      - qiskit-aer>=0.13
