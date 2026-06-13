@@ -2,7 +2,7 @@
 
 Public code package for the proposed **Quantum Type-3 Fuzzy Inference System (QT3-FIS)** associated with:
 
-> Rouzbeh Doroudi and Siyamak Doroudi, **"QT3-FIS: A Quantum Type-3 fuzzy inference system for nonlinear, industrial, and structural applications"**, *Applied Soft Computing*, 200, 115406, 2026. DOI: `10.1016/j.asoc.2026.115406`.
+> Rouzbeh Doroudi and Siyamak Doroudi, **"QT3-FIS: A Quantum Type-3 fuzzy inference system for nonlinear, industrial, and structural applications"**, *Applied Soft Computing*, 200, 115406, 2026. DOI: https://doi.org/10.1016/j.asoc.2026.115406.
 
 ## Scope of this public release
 
@@ -24,7 +24,7 @@ The included implementation focuses on the QT3-FIS workflow:
 3. quantum-oracle rule mapping
 4. finite-shot measurement/probability-based consequent aggregation
 5. alpha-level fusion
-6. four benchmark examples from the article
+6. Four benchmark examples from the article
 
 ## Repository structure
 
@@ -129,7 +129,7 @@ The public package does not include publisher PDF files, private notebook output
   volume  = {200},
   pages   = {115406},
   year    = {2026},
-  doi     = {10.1016/j.asoc.2026.115406}
+  doi     = { https://doi.org/10.1016/j.asoc.2026.115406}
 }
 ```
 
