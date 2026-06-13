@@ -120,7 +120,8 @@ The public package does not include publisher PDF files, private notebook output
 - For exact reproduction of all article tables, use the same earthquake record, benchmark settings, shot budgets, and seed sweep used in the article.
 
 ## Citation
-
+**Software DOI:** https://doi.org/10.5281/zenodo.20676187
+If you use this software, please cite both the software DOI and the associated Applied Soft Computing article below.
 ```bibtex
 @article{Doroudi2026QT3FIS,
   title   = {QT3-FIS: A Quantum Type-3 fuzzy inference system for nonlinear, industrial, and structural applications},
