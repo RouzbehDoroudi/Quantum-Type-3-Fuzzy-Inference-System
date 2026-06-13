@@ -129,7 +129,8 @@ The public package does not include publisher PDF files, private notebook output
   volume  = {200},
   pages   = {115406},
   year    = {2026},
-  doi     = { https://doi.org/10.1016/j.asoc.2026.115406}
+  doi     = {10.1016/j.asoc.2026.115406},
+  url     = {https://doi.org/10.1016/j.asoc.2026.115406}
 }
 ```
 
